@@ -1,0 +1,14 @@
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\bin\Debug\net8.0\DAL.dll
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\bin\Debug\net8.0\DAL.pdb
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\obj\Debug\net8.0\DAL.dll
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\obj\Debug\net8.0\DAL.pdb
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\obj\Debug\net8.0\ref\DAL.dll
+E:\KASHAG\NetflixDevelop\Xfilms\DAL\obj\Debug\net8.0\EFCoreSqlServerDateOnlyTimeOnly.cs

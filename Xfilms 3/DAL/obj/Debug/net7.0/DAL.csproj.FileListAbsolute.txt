@@ -1,0 +1,27 @@
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/bin/Debug/net7.0/DAL.deps.json
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/bin/Debug/net7.0/DAL.dll
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/bin/Debug/net7.0/DAL.pdb
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/obj/Debug/net7.0/DAL.csproj.AssemblyReference.cache
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/obj/Debug/net7.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/obj/Debug/net7.0/DAL.AssemblyInfoInputs.cache
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/obj/Debug/net7.0/DAL.AssemblyInfo.cs
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/obj/Debug/net7.0/DAL.csproj.CoreCompileInputs.cache
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/obj/Debug/net7.0/DAL.sourcelink.json
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/obj/Debug/net7.0/DAL.dll
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/obj/Debug/net7.0/refint/DAL.dll
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/obj/Debug/net7.0/DAL.pdb
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/obj/Debug/net7.0/ref/DAL.dll
+E:/KASHAG/NetflixDevelop/Xfilms/DAL/obj/Debug/net7.0/EFCoreSqlServerDateOnlyTimeOnly.cs
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/obj/Debug/net7.0/DAL.dll
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/obj/Debug/net7.0/refint/DAL.dll
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/obj/Debug/net7.0/DAL.pdb
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/bin/Debug/net7.0/DAL.deps.json
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/bin/Debug/net7.0/DAL.dll
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/bin/Debug/net7.0/DAL.pdb
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/obj/Debug/net7.0/DAL.csproj.AssemblyReference.cache
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/obj/Debug/net7.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/obj/Debug/net7.0/DAL.AssemblyInfoInputs.cache
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/obj/Debug/net7.0/DAL.AssemblyInfo.cs
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/obj/Debug/net7.0/DAL.csproj.CoreCompileInputs.cache
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/obj/Debug/net7.0/EFCoreSqlServerDateOnlyTimeOnly.cs
+/Users/nastyaergenova/Downloads/Xfilms 3/DAL/obj/Debug/net7.0/ref/DAL.dll

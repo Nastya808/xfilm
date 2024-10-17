@@ -1,0 +1,76 @@
+﻿<Properties StartupConfiguration="{85D83FCD-2D62-40FE-9124-A0B7BD213DAF}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Xfilms PreferredExecutionTarget="/Applications/Safari.app-net7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xfilms/Program.cs">
+    <Files>
+      <File FileName="DAL/EF/XFilmContext.cs" Line="22" Column="1" />
+      <File FileName="DAL/Entities/User.cs" Line="5" Column="1" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.317/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" />
+      <File FileName="DAL/Interfaces/ICRUD.cs" />
+      <File FileName="DAL/Interfaces/IEmailUser.cs" Line="11" Column="1" />
+      <File FileName="DAL/Interfaces/IUnitOfWork.cs" />
+      <File FileName="DAL/Repository/UnitOfWorkRepository.cs" />
+      <File FileName="DAL/Repository/UserRepository.cs" />
+      <File FileName="BLL/Services/RegistrationService.cs" />
+      <File FileName="BLL/Services/EncryptionService.cs" />
+      <File FileName="BLL/Services/EmailService.cs" />
+      <File FileName="BLL/Services/AccountService.cs" />
+      <File FileName="DAL/DAL.csproj" />
+      <File FileName="BLL/BLL.csproj" />
+      <File FileName="Xfilms/Xfilms.csproj" />
+      <File FileName="Xfilms/Controllers/RegistrationController.cs" />
+      <File FileName="Xfilms/Controllers/PasswordResetController.cs" />
+      <File FileName="BLL/Interfaces/IAccountService.cs" />
+      <File FileName="BLL/Interfaces/IEmailService.cs" />
+      <File FileName="BLL/Interfaces/IRegistrationService.cs" />
+      <File FileName="BLL/DTO/UserDTO.cs" />
+      <File FileName="BLL/Infrastructure/XfilmcontextExtensions.cs" />
+      <File FileName="BLL/Infrastructure/XfilmsExtensions.cs" />
+      <File FileName="Xfilms/appsettings.json" Line="22" Column="1" />
+      <File FileName="Xfilms/Program.cs" Line="31" Column="1" />
+      <File FileName="BLL/Exceptions/InvalidTokenException.cs" />
+      <File FileName="BLL/Exceptions/UserNotFoundException.cs" />
+      <File FileName="Xfilms/Xfilms.sqbpro" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xfilms" expanded="True">
+            <Node name="BLL" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="DTO" expanded="True" />
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="DAL" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="EF" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="Xfilms" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

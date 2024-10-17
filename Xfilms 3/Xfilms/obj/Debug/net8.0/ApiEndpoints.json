@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Xfilms.Controllers.PasswordResetController",
+    "Method": "SendPasswordResetLink",
+    "RelativePath": "api/PasswordReset/sendlink",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Xfilms.Controllers.RegistrationController",
+    "Method": "RegistrationAccount",
+    "RelativePath": "api/Registration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account",
+        "Type": "BLL.DTO.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

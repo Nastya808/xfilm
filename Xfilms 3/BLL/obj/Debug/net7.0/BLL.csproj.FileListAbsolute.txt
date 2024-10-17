@@ -1,0 +1,31 @@
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/bin/Debug/net7.0/BLL.deps.json
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/bin/Debug/net7.0/BLL.dll
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/bin/Debug/net7.0/BLL.pdb
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/bin/Debug/net7.0/DAL.dll
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/bin/Debug/net7.0/DAL.pdb
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/obj/Debug/net7.0/BLL.csproj.AssemblyReference.cache
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/obj/Debug/net7.0/BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/obj/Debug/net7.0/BLL.AssemblyInfoInputs.cache
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/obj/Debug/net7.0/BLL.AssemblyInfo.cs
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/obj/Debug/net7.0/BLL.csproj.CoreCompileInputs.cache
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/obj/Debug/net7.0/BLL.sourcelink.json
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/obj/Debug/net7.0/BLL.csproj.Up2Date
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/obj/Debug/net7.0/BLL.dll
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/obj/Debug/net7.0/refint/BLL.dll
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/obj/Debug/net7.0/BLL.pdb
+E:/KASHAG/NetflixDevelop/Xfilms/BLL/obj/Debug/net7.0/ref/BLL.dll
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/obj/Debug/net7.0/BLL.csproj.AssemblyReference.cache
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/obj/Debug/net7.0/BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/obj/Debug/net7.0/BLL.AssemblyInfoInputs.cache
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/obj/Debug/net7.0/BLL.AssemblyInfo.cs
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/obj/Debug/net7.0/BLL.csproj.CoreCompileInputs.cache
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/obj/Debug/net7.0/BLL.dll
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/obj/Debug/net7.0/refint/BLL.dll
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/obj/Debug/net7.0/BLL.pdb
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/bin/Debug/net7.0/BLL.deps.json
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/bin/Debug/net7.0/BLL.dll
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/bin/Debug/net7.0/BLL.pdb
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/bin/Debug/net7.0/DAL.dll
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/bin/Debug/net7.0/DAL.pdb
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/obj/Debug/net7.0/BLL.csproj.CopyComplete
+/Users/nastyaergenova/Downloads/Xfilms 3/BLL/obj/Debug/net7.0/ref/BLL.dll
